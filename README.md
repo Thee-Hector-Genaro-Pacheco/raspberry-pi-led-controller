@@ -1,4 +1,3 @@
-# raspberry-pi-led-controller
 # Raspberry Pi LED Controller
 
 ## Overview
